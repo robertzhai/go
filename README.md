@@ -1,16 +1,9 @@
-1.About
+#python in practice 
+<h2>1. python web project based on beego framework</h2>
+<h3><a href="https://github.com/robertzhai/go/tree/master/food">python web project based on beego framework</a></h3>
 
-a go  web project based on beego and mysql and jquery and css
+<h2>2. 《go语言编程》学习代码 </h2>
+<h3><a href="https://github.com/robertzhai/go/tree/master/go_programming_study">《go语言编程》学习代码</a></h3>
+<h3><a href="https://pan.baidu.com/s/1qXV50ao"> 百度网盘分享《go语言编程》pdf 下载</a></h3>
 
 
-2 Inatall
-
-(1)ref http://beego.me/
-
-(2)git clone https://github.com/robertzhai/go-beego
-
-(3)mysql import food.sql
-
-(4)bee run food 
-
-(5)visit http://localhost:3000/ http://localhost:3000/food
