@@ -1,0 +1,5 @@
+Log file created at: 2016/10/15 11:11:20
+Running on machine: localhost
+Binary: Built with gc go1.5 for darwin/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1015 11:11:20.497174    1573 golog_debug.go:16] hello, glog
