@@ -1,1 +1,1 @@
-<<advanced-go-programming>> notes 
+advanced-go-programming  book study notes 
